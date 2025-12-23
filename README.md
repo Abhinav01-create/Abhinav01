@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🌱 I’m currently learning Full Stack Development, Data Structures, and Algorithms<br>💻 I enjoy building responsive web applications using modern frontend technologies<br>🎨 Strong interest in UI/UX design, posters, branding, and digital creativity<br>📫 Reach me at: abhistudy1464@gmail.com</p>
+<p align="left">🌱 I’m currently learning Full Stack Development, Data Structures, and Algorithms<br>💻 I enjoy building responsive web applications using modern frontend technologies<br>🎨 Strong interest in UI/UX design, posters, branding, and digital creativity<br>📫 Reach me at: **abhistudy1464@gmail.com**</p>
 
 ###
 
