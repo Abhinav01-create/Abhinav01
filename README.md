@@ -16,7 +16,7 @@
   <br>
   🎨 Strong interest in UI/UX design, posters, branding, and digital creativity
   <br>
-  📫 Reach me at: **<abhistudy1464@gmail.com>**</p>
+  📫 Reach me at: <a href="mailto:abhistudy1464@gmail.com"><b>abhistudy1464@gmail.com</b></a>
 
 ###
 
